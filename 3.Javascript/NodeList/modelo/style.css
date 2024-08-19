@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(35, 130, 130);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+p {
+    margin: 5px;
+    padding: 9px;
+    font-size: 17px;
+}

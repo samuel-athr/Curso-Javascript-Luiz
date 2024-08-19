@@ -1,0 +1,4 @@
+o While é usado para iterar enquanto uma condição seja atendida.
+
+No While a verificação é feita antes de executar o comando equanto do do-While a verificação é feita apenas
+após executar o comando (no do-While pelomenos uma execução acontecerá)

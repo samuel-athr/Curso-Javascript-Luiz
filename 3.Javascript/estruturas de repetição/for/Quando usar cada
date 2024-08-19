@@ -1,0 +1,3 @@
+For clássico - Geralmente com iteráveis (array ou strings)
+For in - Retonar o indíce/chave (array, strings e objetos)
+For of - Retonar o valor do iterável (array, strings)
